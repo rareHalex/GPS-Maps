@@ -1,0 +1,1 @@
+This class will help you calculate geographic parameters. It can also calculate the distance to the next point and see your direction.
