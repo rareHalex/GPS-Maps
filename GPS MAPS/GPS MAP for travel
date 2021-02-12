@@ -1,2 +1,3 @@
+# Фурье фильтрация сигнала
 # This class will help you travel.
 # It can convert multiple geographic parameters. Show bearing and distance to points. It also registers your position and shows the distance to the next point.
